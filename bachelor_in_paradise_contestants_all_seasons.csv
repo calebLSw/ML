@@ -1,0 +1,527 @@
+Name,Age,Occupation,Hometown,Height,ElimWeek,Season
+Marcus Grodd,25,Sports Medicine Manager,"Dallas, Texas",The Bachelorette – Andi,Week 1,Engaged
+Lacy Faddoul,26,Nursing Home Owner,"La Jolla, California",The Bachelor – Juan Pablo,Week 1,Unknown
+Cody Sattler,28,Personal Trainer,"Chicago, Illinois",The Bachelorette – Andi,Week 4,Relationship
+Michelle Money,33,Hairstylist,"Salt Lake City, Utah",The Bachelor – BradBachelor Pad – Season 2,Week 1,Unknown
+Robert Graham,31,Advertising Entrepreneur,"Los Angeles, California",The Bachelorette – Desiree,Week 1,Split Week 7
+Sarah Herron,27,Art Director,"Marina del Rey, California",The Bachelor – Sean,Week 1,Unknown
+Zack Kalter,29,Book Publisher,"Los Angeles, California",The Bachelorette – Desiree,Week 2,Split Week 7
+Jackie Parr,26,Cosmetics Consultant,"Boca Raton, Florida",The Bachelor – Sean,Week 3,Unknown
+Tasos Hernandez,30,Wedding Event Coordinator,"Denver, Colorado",The Bachelorette – Andi,Week 6,Split Week 7
+Christy Hansen,25,Hairstylist,"Chicago, Illinois",The Bachelor – Juan Pablo,Week 5,Unknown
+Graham Bunn,35,Entrepreneur,"New York City, New York",The Bachelorette – DeAnnaBachelor Pad – Season 2,Week 1,Split Week 7
+AshLee Frazier,33,Personal Organizer,"Houston, Texas",The Bachelor – Sean,Week 1,Unknown
+Brooks Forester,29,Entrepreneur,"Salt Lake City, Utah",The Bachelorette – Desiree,Week 6,Week 6
+Jesse Kovacs,32,Winemaker,"San Diego, California",The Bachelorette – JillianBachelor Pad – Season 1,Week 4,Week 6 (Quit)
+Lucy Aragon,25,Free Spirit,"Santa Barbara, California",The Bachelor – Juan Pablo,Week 5,Week 5
+Clare Crawley,33,Hairstylist,"Sacramento, California",The Bachelor – Juan Pablo,Week 1,Week 5 (Quit)
+Kalon McMahon,29,Entrepreneur,"Houston, Texas",The Bachelorette – EmilyBachelor Pad – Season 3,Week 4,Week 4
+Marquel Martin,27,Sponsorship Salesman,"Las Vegas, Nevada",The Bachelorette – Andi,Week 1,Week 4
+Danielle Ronco,26,Psychiatric Nurse,"St. Louis, Missouri",The Bachelor – Juan Pablo,Week 3,Week 3
+Elise Mosca,28,Bartender,"Los Angeles, California",The Bachelor – Juan Pablo,Week 1,Week 3 (Quit)
+Chris Bukowski,27,Entrepreneur,"Washington, D.C.",The Bachelorette – EmilyBachelor Pad – Season 3,Week 2,Week 3 (Quit)
+Dylan Petitt,26,Accountant,"Boston, Massachusetts",The Bachelorette – Andi,Week 1,Week 2
+Ben Scott,30,Sales Representative,"Dallas, Texas",The Bachelorette – Desiree,Week 1,Week 2 (Quit)
+Daniella McBride,26,Commercial Casting Associate,"San Francisco, California",The Bachelor – Sean,Week 1,Week 1
+Michelle Kujawa,30,Sales,"Anaheim, California",The Bachelor – JakeBachelor Pad – Season 1,Week 1,Week 1 (Quit)
+1-4,Marcus,Date,Date,In,Date,In
+Lacy,Date,Date,In,Date,In,Date
+Cody,Wait,In,Date,In,In,Relationship
+Michelle M.,Date,In,Last,In,Date,In
+5-6,Robert,Date,Last,In,Date,Date
+Sarah,Last,Date,In,Date,Date,In
+7-12,Zack,Wait,Date,In,In,In
+Jackie,Wait,Date,Date,In,Date,Split
+Tasos,Wait,Date,Split,,Unknown,Unknown
+Christy,Wait,Last,Date,Split,,Unknown
+Graham,In,In,Date,In,Date,In
+AshLee,In,In,Date,In,Date,In
+13,Brooks,Wait,Out,,Unknown,Unknown
+14,Jesse,Wait,Last,Date,Quit,
+15,Lucy,Wait,Out,,Unknown,Unknown
+16,Clare,Date,Date,In,In,Quit
+17-18,Kalon,Wait,Out,,Unknown,Unknown
+Marquel,Date,In,Date,Out,,Unknown
+19,Danielle,Wait,Out,,Unknown,Unknown
+20-21,Elise,In,In,Quit,,Unknown
+Chris,Wait,Date,Quit,,Unknown,Unknown
+22,Dylan,In,Out,,Unknown,Unknown
+23,Ben,In,Quit,,Unknown,Unknown
+24,Daniella,Out,,Unknown,Unknown,Unknown
+25,Michelle K.,Quit,,Unknown,Unknown,Unknown
+1,"""Week 1: Series Premiere""","August 4, 2014 (2014-08-04)",101,5.31[11],1.4/5[11],Unknown
+"Arrival Order: Clare, Marcus, Sarah, Marquel, Daniella, Graham, Lacy, Ben, Michelle K., Robert, Dylan, Elise and AshLee.
+Chris Harrison asked everyone if they were single and Michelle K. said ""maybe"". Throughout the first day, Lacy went into the ocean with Robert and Marcus in an 8-hour span. She went into the ocean while Marcus went in there by himself feeling rejected over bachelorette Andi Dorfman.
+Clare's date: Clare initially wanted to take Graham on the date, but AshLee ""claimed"" Graham at the start, which made Clare go on a date with Robert. Clare and Robert went to the ruins; while climbing the ruins, Robert got attacked by fire ants.
+Sarah's date: Sarah took Marcus on a date and went cliff diving. During the date, Michelle Money joined the cast in Mexico.
+Michelle M.'s date: Michelle M. arrived with a date card and took Marquel, they went horseback riding on a beach in Playa del Carmen.
+Lacy's date: Lacy took Robert on a date and they had dinner on a beach.
+
+Rose ceremony: The rose ceremony came after a cocktail party. Before the first rose was handed out Michelle K. stepped out and left because she never had any feelings for a guy. In order Marquel gave his rose to Michelle M., Graham gave his rose to AshLee, Dylan gave his rose to Elise, Marcus gave his rose to Lacy which upset Robert who then gave his rose to Clare, Ben had the final rose which he gave to Sarah over Daniella eliminating her.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2,"""Week 2""","August 11, 2014 (2014-08-11)",102,5.31[11],1.5/5[11],Unknown
+"Chris's Date: Chris showed up with a date card and he took Clare to Papaya Playa on a trip to a spa. During the date Dylan tells Elise to talk to other men in paradise.
+Marcus's Date: Marcus took Lacy on a date and they had dinner in Zcaret. During the date Elise did what Dylan requested which was hooking up with Chris in the ocean, they had a conversation about this the next day and Dylan told Elise if she offered him a rose, he would reject it.
+Zack's Date: Zack showed up with a date card and took Clare to the city to explore, then went swimming in the ocean.
+Dylan's Date: Dylan took Sarah on a date and had dinner.
+Before the Rose Ceremony, Marcus and Marquel confronted Ben upon finding a love letter in his backpack from a girl back home. Ben admitted to being in love with her, upsetting everyone especially Michelle, and decided to go home.
+
+Rose Ceremony Lacy gives her rose to Marcus, Ashlee gives hers to Graham, Clare to Zack, Michelle to Marquel, Elise gives hers to Dylan but he declines, so she gives it to Chris instead, Sarah gives her rose to Robert over Dylan, eliminating him.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3,"""Week 3""","August 18, 2014 (2014-08-18)",103,5.06[11],1.3/4[11],Unknown
+"Elise's Date: Elise asked Chris out. Before the date began, Chris sprained his knee. He decided to go through with the date, despite being in great pain. Immediately after the date he went to the hospital for treatment.
+Danielle: Danielle showed up at the bachelor house with a date. She asked Marquel to go on the date and they went swimming.
+At the house, Michelle and Clare decided to take Zack and Robert on a mini double date. Sarah was pretty upset about this.
+Jackie: Jackie showed up with a date card. She decided to take Marquel as well for his second date this week. Danielle and Michelle were a little upset about this. They went the Campeche Mexico and explored. They shared a kiss after Marquel and Jackie both said they don't usually kiss on the first date.
+Sarah and the others expressed their concern to Elise about being careful with Chris and not getting too serious too fast.
+AshLee: Ashlee asked Graham to go on her date with her. They went to dinner. AshLee started talking about living together and Graham asked her to not put pressure on forever anymore. They got a card from Chris Harrison with two room keys. Graham wanted to use both rooms, but Ashlee wanted to share a room. They ended up using both rooms.
+
+Rose Ceremony: Graham gave his rose to Ashlee. Zack gave his rose to Clare. Marcus gave his rose to Lacy. Marquel gave his rose to Jackie. Robert gave his rose to Sarah. Chris asked Elise to come forward. He told Elise that he could not give her the rose, because he had decided to leave the show due to his knee injury. Instead, he asked Elise to leave along with him so they could continue to pursue their relationship back home, and she accepted. Chris decided to give his rose to Michelle so she could continue her journey of true love. Danielle was eliminated.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4,"""Week 4""","August 25, 2014 (2014-08-25)",104,4.84[11],1.3/4[11],Unknown
+"Robert: Robert gets the first date and decides to take Sarah. They go sailing and swimming in the ocean.
+Cody's Date Card: Cody arrived with a date card. He asks Clare, but she decided to pass on the date because of Zack. Cody then decided to pass it to his friend Marcus, so he could have more time to get to know the people in the house. Many of the women thought that was a very nice gesture. Marcus takes Lacy.
+Kalon's Date: Kalon arrived with a date card. He asked Michelle and she accepted, but then she cancelled on him. He asked a few other girls, but none of the women went with him (recalling how badly he had upset Emily Maynard and her daughter in The Bachelorette (season 8). Feeling certain that he would be eliminated later at the Rose Ceremony, he decided to go by himself and enjoy it rather than pass the card, creating the show's first ""one on none"" date.
+Jesse: Jesse shows up with a date card and he invites Jackie to go out with him. She accepts and Marquel is kind of upset. They go to an ancient Mayan Cave. The date is a little awkward at first, but gets better toward the end. Andrew Ripp performs.
+Before the Rose Ceremony, AshLee said disrespectful things about Clare to Zack and her remarks were caught on camera. Word got back to Clare and she confronted AshLee about it. Michelle informed Graham about the situation right before the Rose Ceremony began. Graham started to have second thoughts about AshLee.
+
+Rose Ceremony: Lacy gives her rose to Marcus. Clare gives her rose to Zack. AshLee asked Graham to come forward. At that point Graham turned and left the room. Michelle followed after him. AshLee continued to stand in the Rose Ceremony room and did not follow Graham. After seeing a medic, Graham returned and accepted the rose from AshLee. Then Lacy became ill and departed in an ambulance, accompanied by Marcus. The rose ceremony continued. Michelle gave her rose to Cody. Sarah gave her rose to Robert. Jackie gave her rose to Jesse. Kalon and Marquel were eliminated at the Rose Ceremony.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+5,"""Week 5""","August 26, 2014 (2014-08-26)",105,5.07[11],1.4/5[11],Unknown
+"Christy: Christy shows up with a date card and asks Zack to go with her, but he turns her down. Christy then asks Jesse to join her on the date. They go shopping in Mexico.
+Lacy and Marcus return from the hospital.
+Sarah: Sarah got a date card and asked Robert to join her. They go out to dinner and go swimming. They share a kiss.
+Clare was still upset about the disrespectful comments from AshLee. She came to Zack to let him know that she had decided to quit.
+Lucy's Date: Lucy arrived with a date card. She asked Jesse out and they went to some ruins.
+Michelle's Date: Michelle asked Cody out and they had their 'engagement' photos taken on the beach, even though it was their first date.
+AshLee's Date: She asked Graham out and they drove sports cars on a road course.
+Christy began to feel insecure about her status with Jesse. She spoke to him and was reassured. They started to make out in private and were joined by Lucy.
+
+Rose Ceremony: Sarah accepts Robert's rose. AshLee accepts Graham's rose. Cody gives his rose to Michelle. Lacy accepted Marcus' rose with a very long kiss. Zack gives his rose to Jackie. Jesse chose Christy over Lucy, so Lucy was eliminated.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6,"""Week 6""","September 1, 2014 (2014-09-01)",106,5.01[11],1.3/4[11],Unknown
+"Marcus's Date: Marcus took Lacy on a date exploring in a cave. Lacy told Marcus she was falling in love with him.
+Brooks' Date: Sarah was hoping that Brooks would ask her out, and Brooks wanted to do it, but Robert informed Brooks that he and Sarah were a couple and Brooks should pick someone else. Brooks asked Jackie out.
+Tasos's Date: Tasos arrived with a date card. Tasos pulled Michelle aside first and told him he should take Christy. Tasos told her how great of a guy Cody was. Tasos asked Christy on the date and Jesse wasn't happy because he doesn't want to leave Paradise. On the date, Tasos and Christy go swimming in a lazy river.
+Zack's Date: Zack asked Jackie on the date, and Brooks wasn't too thrilled. AshLee was also upset it wasn't Graham who got the date card. Zack and Jackie went swimming in a cave. They kissed.
+Before the Rose Ceremony, Jesse had a talk with Christy and realized that he would not be getting a rose from her. He decided to quit at that point rather than be eliminated later. Before he could depart, Christy came to the car and told him all of the reasons that she was angry with him. Jesse didn't seem concerned by this, saying later that he had fun and he knew there would be many emails and party invitations waiting for him when returned home.
+
+Rose Ceremony: Lacy gave her rose to Marcus. AshLee gave her rose to Graham. Sarah gave her rose to Robert. Michelle gave her rose to Cody. Christy to Tasos. Jackie gave her rose to Zack. Brooks was eliminated. Then Chris Harrison announced that there would be no more newcomers; the final episode would be a test of their new relationships.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+7,"""Week 7""","September 8, 2014 (2014-09-08)",107,5.40[11],1.4/4[11],Unknown
+"Chris Harrison asked each of the couples to have a serious talk with each other and decide whether to continue or go home. AshLee and Graham decided to split up after some prompting by Michelle. Zack, Jackie, Tasos and Christy all decided to break up. That left three couples: Sarah and Robert, Michelle and Cody, and Lacy and Marcus.
+The three couples went on romantic overnight dates in fantasy suites. Lacy and Marcus and Michelle and Cody came back convinced that they should remain as couples. However, Sarah complained that there was little intimacy on their date. She confronted Robert about this and he just apologized and left with no explanation.
+The two remaining couples were joined by three couples (Jason/Molly Mesnick, Sean/Catherine Lowe and Desiree Hartsock/Chris Seigfried) who had found love on the show in the past. They agreed that the two remaining couples had a good chance of making it work.
+Rose Ceremony: Michelle and Cody exchanged roses and left as a couple. Marcus proposed to Lacy and she accepted.
+
+In the epilogue, it was revealed that Chris and Elise broke up after less than two weeks. Michelle and Cody were still in a relationship at the time. Clare was still in Sacramento searching for her soulmate.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Tanner Tolbert,28,Auto Finance Manager,"Kansas City, Missouri",The Bachelorette – Kaitlyn,Week 1,Engaged
+Jade Roper,28,Cosmetics Developer,"Los Angeles, California",The Bachelor – Chris,Week 1,Unknown
+Nick Peterson,30,Personal Trainer,"Tampa, Florida",The Bachelorette – AshleyBachelor Pad – Season 3,Week 4,Relationship
+Samantha Steffen,28,Fashion Designer,"Beverly Hills, California",The Bachelor – Chris,Week 3,Unknown
+Justin Reich,28,Personal Trainer,"Naperville, Illinois",The Bachelorette – Kaitlyn,Week 4,Relationship
+Cassandra Ferguson,23,Make-up Artist,"Detroit, Michigan",The Bachelor – Juan Pablo,Week 5,Unknown
+Joshua Albers,31,Industrial Welder,"Kuna, Idaho",The Bachelorette – Kaitlyn,Week 2,Split Week 6
+Tenley Molzahn,31,Nutrition Therapist,"Encinitas, California",The Bachelor – JakeBachelor Pad – Season 1,Week 1,Unknown
+Kirk DeWindt,32,Personal Trainer,"Minneapolis, Minnesota",The Bachelorette – AliBachelor Pad – Season 2,Week 1,Split Week 6
+Carly Waddell,29,Singer/Songwriter,"Nashville, Tennessee",The Bachelor – Chris,Week 1,Unknown
+Amber James,30,Bartender,"Chicago, Illinois",The Bachelor – Chris,Week 3,Week 5
+Ashley Salter,25,Hairstylist,"Alpharetta, Georgia",The Bachelor – Chris,Week 1,Week 5
+Chelsie Webster,25,Science Educator,"Galloway, Ohio",The Bachelor – Juan Pablo,Week 5,Week 5
+Jaclyn Swartz,30,Account Manager,"Chicago, Illinois",The Bachelor – Ben F.Bachelor Pad – Season 3,Week 5,Week 5
+Mikey Tenerelli,32,Personal Trainer,"Winfield, Illinois",The Bachelorette – Desiree,"Week 1
+Week 4","Week 2 (Returned)
+Week 5 (Quit)"
+Mackenzie Deonigi,22,Dental Assistant,"Seattle, Washington",The Bachelor – Chris,Week 5,Week 5 (Quit)
+Dan Cox,32,Small Business Owner,"Las Vegas, Nevada",The Bachelorette – Desiree,Week 1,Week 5 (Quit)
+Jared Haibon,26,Restaurant Manager,"Providence, Rhode Island",The Bachelorette – Kaitlyn,Week 1,Split Week 5
+Ashley Iaconetti,27,Freelance Journalist,"Wayne, New Jersey",The Bachelor – Chris,Week 1,Unknown
+Juelia Kinney,30,Esthetician/Full-time Mom,"San Diego, California",The Bachelor – Chris,"Week 1
+Week 4","Week 3 (Returned)
+Week 5 (Quit)"
+Joe Bailey,29,Insurance Agent,"Columbia, Kentucky",The Bachelorette – Kaitlyn,Week 2,Week 4
+Chris Bukowski,28,Entrepreneur,"Chicago, Illinois",The Bachelorette – EmilyBachelor Pad – Season 3Bachelor in Paradise – Season 1,Week 4,Week 4 (Quit)
+Clare Crawley,34,Hairstylist,"Sacramento, California",The Bachelor – Juan PabloBachelor in Paradise – Season 1,Week 1,Week 3
+Megan Bell,24,Make-up Artist,"New York City, New York",The Bachelor – Chris,Week 3,Week 3
+JJ Lane III,32,Former Investment Banker,"Denver, Colorado",The Bachelorette – Kaitlyn,Week 1,Week 3 (Quit)
+Jonathan Holloway,33,Automotive Spokesman,"Detroit, Michigan",The Bachelorette – Kaitlyn,Week 1,Week 2
+Michael Garofola,35,Federal Prosecutor,"Houston, Texas",The Bachelorette – Desiree,Week 2,Week 2
+Lauren Iaconetti[7],24,Mistress,"Wayne, New Jersey",None,Week 1,Week 2 (Quit)
+Jillian Anderson,26,News Producer,"Washington, D.C.",The Bachelor – Chris,Week 1,Week 1
+Tanner,Date,In,In,Date,In,In
+Jade,Date,In,In,Date,In,In
+Nick,Wait,Date,Date,In,Relationship,Unknown
+Samantha,Wait,Date,In,Date,In,Relationship
+Justin,Wait,Date,Date,In,Relationship,Unknown
+Cassandra,Wait,Last,In,Relationship,Unknown,Unknown
+Tenley,Last,Date,In,Date,In,In
+Joshua,Wait,Date,In,Date,In,In
+Carly,In,In,Date,In,In,Split
+Kirk,In,In,Date,In,In,Split
+Ashley S.,Date,In,In,Date,Out,
+Amber,Wait,Last,Date,Out,,Unknown
+Jaclyn,Wait,Out,,Unknown,Unknown,Unknown
+Chelsie,Wait,Out,,Unknown,Unknown,Unknown
+Mikey,Date,Out,Back,Date,Quit,
+Mackenzie,Wait,Quit,,Unknown,Unknown,Unknown
+Dan,Date,In,Date,Last,Quit,
+Jared,Date,Date,In,In,Split,
+Ashley I.,Date,In,In,In,Split,
+Juelia,In,Date,Save,Date,Quit,
+Joe,Wait,Last,Date,Out,,Unknown
+Chris,Wait,Quit,,Unknown,Unknown,Unknown
+Clare,Date,Date,Out,,Unknown,Unknown
+Megan,Wait,Out,,Unknown,Unknown,Unknown
+JJ,In,In,Quit,,Unknown,Unknown
+Jonathan,In,Out,,Unknown,Unknown,Unknown
+Michael,Wait,Out,,Unknown,Unknown,Unknown
+Lauren,In,Quit,,Unknown,Unknown,Unknown
+Jillian,Out,,Unknown,Unknown,Unknown,Unknown
+1,"""Week 1: Part 1 (Season Premiere)""","August 2, 2015 (2015-08-02)",201A,3.60[9],1.1/4[9],Unknown
+2,"""Week 1: Part 2""","August 3, 2015 (2015-08-03)",201B,4.66[9],1.3/5[9],Unknown
+3,"""Week 2: Part 1""","August 9, 2015 (2015-08-09)",202A,3.76[9],1.2/4[9],Unknown
+4,"""Week 2: Part 2""","August 10, 2015 (2015-08-10)",202B,5.09[9],1.5/6[9],Unknown
+5,"""Week 3: Part 1""","August 16, 2015 (2015-08-16)",203A,3.98[9],1.3/5[9],Unknown
+6,"""Week 3: Part 2""","August 17, 2015 (2015-08-17)",203B,5.24[9],1.5/6[9],Unknown
+7,"""Week 4: Part 1""","August 23, 2015 (2015-08-23)",204A,4.21[9],1.3/4[9],Unknown
+8,"""Week 4: Part 2""","August 24, 2015 (2015-08-24)",204B,5.58[9],1.8/6[9],Unknown
+9,"""Week 5: Part 1""","August 30, 2015 (2015-08-30)",205A,4.40[9],1.3/4[9],Unknown
+10,"""Week 5: Part 2""","August 31, 2015 (2015-08-31)",205B,5.24[9],1.5/6[9],Unknown
+11,"""Week 6: Part 1""","September 6, 2015 (2015-09-06)",206A,3.88[9],1.1/4[9],Unknown
+12,"""Week 6: Part 2 (Season Finale)""","September 7, 2015 (2015-09-07)",206B,4.82[9],1.5/4[9],Unknown
+Evan Bass,33,Erectile Dysfunction Specialist,"Nashville, Tennessee",The Bachelorette – JoJo,Week 1,Engaged
+Carly Waddell,30,Singer-Songwriter,"Nashville, Tennessee",The Bachelor – ChrisBachelor in Paradise – Season 2,Week 1,Unknown
+Grant Kemp,28,Firefighter,"San Francisco, California",The Bachelorette – JoJo,Week 1,Engaged
+Lace Morris,26,Real Estate Agent,"Denver, Colorado",The Bachelor – Ben H.,Week 1,Unknown
+Josh Murray,31,Financial Advisor,"Tampa, Florida",The Bachelorette – Andi,Week 2,Engaged
+Amanda Stanton,26,Esthetician,"Laguna Beach, California",The Bachelor – Ben H.,Week 1,Unknown
+Nick Viall,35,Software Sales Executive,"Waukesha, Wisconsin",The Bachelorette – Andi The Bachelorette – Kaitlyn,Week 1,Split Week 6
+Jennifer Saviano,26,Business Owner,"Fort Lauderdale, Florida",The Bachelor – Ben H.,Week 3,Unknown
+Wells Adams,31,Radio DJ,"Chattanooga, Tennessee",The Bachelorette – JoJo,Week 4,Split Week 6
+Ashley Iaconetti,28,Freelance Journalist,"Wayne, New Jersey",The Bachelor – ChrisBachelor in Paradise – Season 2,"Week 3
+Week 4","Week 3
+Split Week 6"
+Jami Letain,24,Bartender,"Calgary, Alberta, Canada",The Bachelor – Ben H.,Week 5,Week 5
+Lauren Himle,26,Real Estate Agent,"Ann Arbor, Michigan",The Bachelor – Ben H.,Week 5,Week 5
+Tiara Soleim,27,Chicken Enthusiast,"Seattle, Washington",The Bachelor – Ben H.,Week 5,Week 5
+Brett Melnick,32,Hairstylist,"Blue Bell, Pennsylvania",The Bachelorette – Andi,Week 4,Week 5 (Quit)
+Shushanna Mkrtychyan,28,Mathematician,"Salt Lake City, Utah",The Bachelor – Ben H.,Week 5,Week 5 (Quit)
+Izzy Goodkind,25,Graphic Designer,"New York City, New York",The Bachelor – Ben H.,Week 1,Week 5 (Quit)
+Jared Haibon,27,Restaurant Manager,"Providence, Rhode Island",The Bachelorette – KaitlynBachelor in Paradise – Season 2,Week 1,Week 5 (Quit)
+Caila Quinn,24,Marketing Manager,"Wellesley, Massachusetts",The Bachelor – Ben H.,Week 3,Week 5 (Quit)
+Carl King,32,Firefighter,"Miami, Florida",The Bachelorette – Andi,Week 4,Week 4
+Daniel Maguire,31,Personal Trainer,"Vancouver, British Columbia",The Bachelorette – JoJo,Week 1,Week 4
+Ryan Beckett,33,Realtor,"Wellington, Florida",The Bachelorette – Kaitlyn,Week 4,Week 4
+Emily Ferguson,23,Waitress,"Las Vegas, Nevada",The Bachelor – Ben H.,Week 1,Week 4 (Quit)
+Haley Ferguson,23,Waitress,"Las Vegas, Nevada",The Bachelor – Ben H.,Week 1,Week 4 (Quit)
+Vinny Ventiera,28,Barber,"Delray Beach, Florida",The Bachelorette – JoJo,Week 1,Week 4 (Quit)
+Sarah Herron,29,Art Director,"Marina del Rey, California",The Bachelor – SeanBachelor in Paradise – Season 1,Week 1,Week 3
+Brandon Andreen,29,Painting Contractor,"Costa Mesa, California",The Bachelorette – Desiree,Week 2,Week 2
+Christian Bishop,27,Personal Trainer,"Los Angeles, California",The Bachelorette – JoJo,Week 2,Week 2
+Leah Block,25,Event Planner,"Aurora, Colorado",The Bachelor – Ben H.,Week 1,Week 1
+Jubilee Sharpe,24,"Model, War veteran","Miami, Florida",The Bachelor – Ben H.,Week 1,Week 1
+Chad Johnson,28,Real Estate Agent,"Tulsa, Oklahoma",The Bachelorette – JoJo,Week 1,Week 1 (Kicked Off)
+Evan,In,Date,In,Date,In,In
+Carly,In,Date,In,Date,In,In
+Grant,In,In,Date,In,In,In
+Lace,In,In,Date,In,In,In
+Josh,Wait,Date,In,Last,Date,In
+Amanda,Date,Date,In,In,Date,In
+Nick,Date,Last,Date,In,In,In
+Jennifer,Wait,Date,In,In,In,Split
+Wells,Wait,Date,Date,Split,,Unknown
+Ashley,Wait,Out,Date,Last,Split,
+Jami,Wait,Out,,Unknown,Unknown,Unknown
+Lauren,Wait,Out,,Unknown,Unknown,Unknown
+Tiara,Wait,Out,,Unknown,Unknown,Unknown
+Brett,Wait,Date,Quit,,Unknown,Unknown
+Shushanna,Wait,Quit,,Unknown,Unknown,Unknown
+Izzy,In,In,Date,In,Quit,
+Jared,Date,In,Date,Date,Quit,
+Caila,Wait,Date,Date,Quit,,Unknown
+Carl,Wait,Out,,Unknown,Unknown,Unknown
+Daniel,In,In,Date,Out,Unknown,Unknown
+Ryan,Wait,Out,Unknown,Unknown,Unknown,Unknown
+Emily,In,In,In,Quit,Unknown,Unknown
+Haley,In,Date,Last,Quit,Unknown,Unknown
+Vinny,In,In,Date,Quit,Unknown,Unknown
+Sarah,Last,Date,Out,,Unknown,Unknown
+Brandon,Wait,Out,,Unknown,Unknown,Unknown
+Christian,Wait,Out,,Unknown,Unknown,Unknown
+Jubilee,Out,,Unknown,Unknown,Unknown,Unknown
+Leah,Out,,Unknown,Unknown,Unknown,Unknown
+Chad,Out,,Unknown,Unknown,Unknown,Unknown
+1,"""Week 1: Season Premiere""","August 2, 2016 (2016-08-02)",301,4.63[8],1.4/5[8],Unknown
+"Arrival Order: Amanda, Nick, Jubilee, Evan, Vinny, Carly, Grant, Daniel, Sarah, Emily & Haley, Izzy, Lace, Jared, Chad.
+
+Chris Harrison informs that, just like last season, if Emily receives a rose Haley will stay, and vice versa. Jubilee receives the first date card of the season and asked Jared on a date. They went on a dinner date and got to know each other. Meanwhile, Lace, Chad, and Grant go to the bar and Lace and Chad make out in private. Suddenly, Chad becomes belligerent and argues with Lace. Chad starts to show more aggressive behavior towards the other contestants, especially Izzy and Sarah. Chad later got drunk, and then passed out on the beach. Harrison, at the end of his rope, removes Chad from paradise, and Chad refuses to apologize to the other contestants. Harrison pushes Chad out the door, with Chad shouting expletives at him. The episode ends with ""To Be Continued...""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2,"""Week 2, Night 1""","August 8, 2016 (2016-08-08)",302A,4.54[9],1.4/5[9],Unknown
+"After saying ""Fuck you Chris Harrison"", Chad finally leaves paradise, much to everyone's relief. Leah arrives with a date card, planning to ask Chad out on a date. After being informed that Chad was eliminated, she was dismayed, but asked Nick out instead.  They go to a fair, where she kisses him, which she thought was great but Nick thinks Leah is nuts. Shortly after returning from their date, Nick was given a date card of his own and he asked Amanda out, which upset Leah, who thought their date had gone well. At the rose ceremony, Grant gave his rose to Lace, Nick gave his rose to Amanda [much to Leah's annoyance.] Vinny gave his rose to Izzy, Evan (very enthusiastically) gives his rose to Carly, Jared saves Haley from elimination by giving his rose to Emily, upsetting Jubilee, a Daniel gives the last rose to Sarah, claiming ""He saved the best for last."" Leah and Jubilee were eliminated. A day later, Josh Murray, the winner of The Bachelorette, from Andi's season then arrived with a date card and asked Amanda out, which meant that he and Nick were competing for the same woman, much as they had competed for Andi Dorfman. They went sailing on a yacht and they get to know each other. They end the day making out. Meanwhile, Lace and Grant hooked up, and Evan kissed Carly, which he thought was fantastic but she decidedly did not. Later Evan was given a date card and he asked Carly out, to her dismay. They set a new world's record for the longest kiss after eating a habanero pepper, which Carly did not enjoy at all, and she starts throwing up in the restroom.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3,"""Week 2, Night 2""","August 9, 2016 (2016-08-09)",302B,3.86[10],1.1/4[10],Unknown
+"As Josh and Amanda spend the day making out, Christian Bishop from JoJo's season arrives with a date card and asks Sarah out. She has mixed feelings about this since Daniel had just given her a rose, but she agrees and has a great time. Carly breaks the news to Evan that she wants to be a friend but is not romantically interested in him, much to his devastation. Brandon Andreen from Desiree's season arrives with a date card and briefly considers Carly, but asks Haley out instead. He tells Haley that he is sure that he could tell her and Emily apart, and to test this they switch places mid-date. Brandon fails to recognize Emily, and is about to kiss her, but she stops him. Sarah meets with Daniel and they get to know each other better. Evan, feeling down about getting dumped, broods for a long time and decides that he needs to make a bold move, and approaches Amanda and Josh, with a handmade date card that says ""Evan, you deserve love.""",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4,"""Week 3, Night 1""","August 15, 2016 (2016-08-15)",303A,4.74[11],1.4/5[11],Unknown
+"Evan approaches Amanda and Josh with a handmade date card, and takes Amanda aside for a chat. He expresses his feelings for her and she says she wishes he had said something sooner, but she is with Josh now. She then cries because she pities Evan, who thinks that they have a small connection. The twins note that Brandon never did detect their mid-date switch. Before the Rose Ceremony, Evan takes Amanda aside again and tells her that Andi Dorfman wrote a book that told of verbal abuse from Josh, and advised caution. Word of this quickly got back to Josh and he had a talk with Evan, and said that the book was fictional. Meanwhile, Nick was also advising Amanda to be cautious. At the Rose Ceremony, Amanda gave her rose Josh, and Carly gave her rose to Evan. Sarah, Izzy, and Lace give their roses to Daniel, Vinny, and Grant. Emily gives her rose to Jared, and Haley gives the last rose to Nick even though she is seeing him as a friend, sending a dismayed Brandon home, and also Christian was sent home. Caila arrived with a date card and asked Jared out. Lace and Izzy were given a ""double date"" card and they asked Grant and Vinny out. Later Evan did not appear to be well and a medic was called. The medic said someone should observe him overnight, and Carly was tabbed for the task. Ashley arrived and saw that Jared was with Caila.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+5,"""Week 3, Night 2""","August 16, 2016 (2016-08-16)",303B,4.41[12],1.3/5[12],Unknown
+"Ashley arrived with a date card and saw that Jared was with Caila. She was upset about this and Jared encouraged her to see other guys, and suggested Daniel. The medic advised Evan to be treated in the hospital, and Carly accompanied him there, where she began to warm to him. Ashley asked Daniel out and they had dinner followed by a visit from Aztec warriors who took the virgin Ashley away to be 'sacrificed'. Jen Saviano arrived with a date card and asked Nick out. Before the Rose Ceremony, Ashley took Jared aside. Jared said that the point of Ashley being there was for her to meet other guys, and if she wasn't going to do that, perhaps she should leave.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6,"""Week 4, Night 1""","August 22, 2016 (2016-08-22)",304A,5.21[13],1.6/6[13],Unknown
+"Jared continues his conversation with Ashley and lets her know that she should move on because he is with Caila now. The only guy who is not in a relationship is Daniel, so Sarah, Haley and Ashley approach him to try to earn his rose. At the Rose Ceremony, Daniel gives his rose to Haley, so Sarah and Ashley are sent home. But Ashley tells the driver to let her out and she returns to paradise and asks for a second chance, and all agree. Evan was still with Carly and he said it was the best injury he ever faked. Carl and Brett arrive with double date cards, and they ask Caila and Emily out. Caila is indecisive but finally decides to go, and does not have a good time on the 'booze cruise'. She returns to a relieved Jared. Izzy was instantly attracted to Brett when he arrived and starts to question her relationship with Vinny. Grant takes Lace to another part of the resort for a couples' massage, to deepen their relationship. Ryan B arrives with a date card. Jared tries to encourage him to ask Ashley out but he does not. Izzy tells Brett and then Vinny that she is only feeling ""75%"" for Vinny and wants to feel ""100%"" for someone. Vinny is hurt by this and considers leaving. Later he approaches Izzy to find out where he stands.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+7,"""Week 4, Night 2""","August 23, 2016 (2016-08-23)",304B,4.85[14],1.4/6[14],Unknown
+"Vinny talks with Izzy and explains that he was hurt by what she said and how she said it, and he departs. Jade and Tanner arrive with a date card to give to the couple that they feel has the best chance of staying together. After interviewing all of the couples, they select Jared and Caila (to Ashley's dismay). Lace thinks that their interview went badly and starts to question her relationship with Grant. After Jared and Caila return, Ashley takes Jared aside and advises caution since Ashley questions the genuineness of Caila's feelings. Jared takes this back to Caila which upsets her, both because Ashley is questioning her feelings and because Jared seems to trust Ashley more than Caila. Caila confronts Ashley over this and starts to question her relationship with Jared.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+8,"""Week 5, Night 1""","August 29, 2016 (2016-08-29)",305A,5.46[15],1.6/6[15],Unknown
+"Wells arrives with a date card and asks Ashley out, to everyone's relief. Carly and Evan profess their love for each other. Lace and Grant get into a disagreement but work it out. Amanda says she is going to bed early and offers their room to Nick and Jen, but Josh is upset by this and wonders why she is going to bed alone without telling him. Later the twins take Nick aside and want to talk about Josh. Nick says he sees flashes of Josh's temper and even though Josh says that what Andi said about him in the book was fictional, what she said about Nick was accurate. At the Rose Ceremony, the twins decide that they have not found love and do not hand out their roses. Ryan, Carl and Daniel are eliminated. Before the twins leave, they take Amanda aside and tearfully tell her to be cautious with Josh. Josh demands to know who is saying these things about him, and Nick admits to it. Josh packs his bags and offers to leave, but Amanda convinces him to stay. In the morning, Jami arrives with a date card and whisks Wells off while the others are sleeping. When Ashley awakes and hears of this, she takes it well at first but later starts to focus on Jared again. Caila decides that the situation with Ashley is intolerable and threatens to leave.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+9,"""Week 5, Night 2""","August 30, 2016 (2016-08-30)",305B,5.04[16],1.4/6[16],Unknown
+"Caila packs her bags and leaves, and after a final discussion with Ashley, Jared accompanies her. Wells returns from his date with Jami and apologizes to Ashley for leaving without saying anything to her. She takes it well. Wells is having difficulty juggling two women whom he cares about. Lauren and Shushanna arrive with a double date card and they ask Brett and Wells out respectively. Wells has a good time with Shushanna and now has three women vying for him. Amanda is given a date card and asks Josh out, and they have a romantic dinner followed by fireworks. Amanda wishes that the others could see this sensitive side of Josh.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+10,"""Week 6, Night 1""","September 5, 2016 (2016-09-05)",306A,4.96[17],1.4/5[17],Unknown
+"Izzy, Brett, and Shushanna decide to quit the competition. Jami, Lauren, and Tiara didn't receive roses and were eliminated.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+11,"""Season Finale: Week 6, Night 2""","September 6, 2016 (2016-09-06)",306B,5.57[18],1.6/6[18],Unknown
+"Carly and Evan: They are very much in love with each other. Evan picks out a ring with no hesitation and later proposes to Carly, and she happily accepts. In the epilogue, Carly has moved to Nashville to be with Evan and is looking forward to being the cool stepmom to his children. Carly and Evan married in June 2017 and are currently expecting their first child together.
+Lace and Grant: In the morning at the fantasy suite they are still unsure about whether they want to move forward. After both have some time to sort out their feelings, they decide that they really do love each other. Grant proposes and Lace accepts. In the epilogue, Lace has moved to San Francisco to be with Grant. However, on November 28, 2016, the pair announced that they had split and ended their engagement. Lace has since moved back to her hometown of Denver, Colorado.
+Jen and Nick: Jen is concerned that Nick still seems to have some walls up, but she loves him anyway. Nick picks out a ring, 'hopefully for the last time!'. Jen professes her love for Nick but Nick tearfully says that he cannot propose because even though his head is telling him to do it, he cannot convince his heart that it is right. They both leave, with Nick wondering if he made the right decision.
+Amanda and Josh: Despite being warned about Josh several times, Amanda knows that she loves him. Josh has some worries but overcomes them. Josh proposes and Amanda accepts. In the epilogue, Josh has moved to Orange County to be with Amanda and he loves her children. However, the pair ended their engagement in December 2016.
+
+Also in the epilogue, Caila and Jared have agreed to be just friends. Vinny is shown partying and is doing just fine. Chad will never be the next Bachelor. Ashley is still thinking about Jared. Daniel is still single. The twins have not found men but they still have each other.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Derek Peth,30,Commercial Banker,"Fort Lauderdale, Florida",The Bachelorette – JoJo,Week 1,Engaged
+Taylor Nolan,23,Mental Health Counselor,"Seattle, Washington",The Bachelor – Nick,Week 1,Unknown
+Adam Gottschalk,27,Real Estate Agent,"Dallas, Texas",The Bachelorette – Rachel,Week 1,Relationship
+Raven Gates,25,Fashion Boutique Owner,"Hoxie, Arkansas",The Bachelor – Nick,Week 1,Unknown
+Daniel Maguire,32,Model,"Vancouver, British Columbia, Canada",The Bachelorette – JoJoBachelor in Paradise – Season 3,Week 2,Relationship
+Lacey Mark,25,Digital Marketing Manager,"New York City, New York",The Bachelor – Nick,Week 1[a],Unknown
+Robby Hayes,28,Social Media Influencer,"Los Angeles, California",The Bachelorette – JoJo,Week 1,Split Week 4
+Amanda Stanton,27,Esthetician,"Laguna Beach, California",The Bachelor – Ben H.Bachelor in Paradise – Season 3,Week 1,Unknown
+Dean Unglert,26,Startup Recruiter,"Santa Monica, California",The Bachelorette – Rachel,Week 1,Split Week 4
+Danielle Lombard,28,Small Business Owner,"Los Angeles, California",The Bachelor – Nick,Week 2,Unknown
+Jonathan Treece,31,Family Medicine Doctor,"New Smyrna Beach, Florida",The Bachelorette – Rachel,Week 3,Split Week 4
+Jasmine Goode,30,Pro Basketball Dancer,"Los Angeles, California",The Bachelor – Nick,Week 1,Unknown
+Jack Stone,32,Lawyer,"Dallas, Texas",The Bachelorette – Rachel,Week 1,Split Week 4
+Christen Whitney,25,Wedding Videographer,"Tulsa, Oklahoma",The Bachelor – Nick,Week 2,Unknown
+Dominique Alexis,26,Restaurant Server,"Los Angeles, California",The Bachelor – Nick,Week 2,Week 4 (Quit)
+Jaimi King,28,Chef,"New Orleans, Louisiana",The Bachelor – Nick,Week 4,Week 4 (Quit)
+Diggy Moreland,31,Fashion Designer,"Chicago, Illinois",The Bachelorette – Rachel,Week 1,Week 4 (Quit)
+Emily Ferguson,24,Waitress,"Las Vegas, Nevada",The Bachelor – Ben H.Bachelor in Paradise – Season 3,Week 4,Week 4 (Quit)
+Haley Ferguson,24,Waitress,"Las Vegas, Nevada",The Bachelor – Ben H.Bachelor in Paradise – Season 3,Week 4,Week 4 (Quit)
+Blake Elarbee,31,Fitness Club Owner,"Los Angeles, California",The Bachelorette – Rachel,Week 3,Week 3
+Fred Johnson,27,Executive Assistant,"Los Angeles, California",The Bachelorette – Rachel,Week 3,Week 3
+Kristina Schulman,25,Dental Hygienist,"Lexington, Kentucky",The Bachelor – Nick,Week 1,Week 3 (Quit)
+Ben Zorn,28,Fitness Coach,"San Diego, California",The Bachelorette – Kaitlyn,Week 1,Week 3 (Quit)
+Alexis Waters,24,Marketing Associate,"Miami, Florida",The Bachelor – Nick,Week 1,Week 2
+Sarah Vendal,27,Second Grade Teacher,"Newport Beach, California",The Bachelor – Nick,Week 2,Week 2
+Matt Munson,32,Construction Sales,"New Haven, Connecticut",The Bachelorette – Rachel,Week 1,Week 2 (Quit)
+Danielle Maltby,31,Neonatal Nurse,"Nashville, Tennessee",The Bachelor – Nick,Week 1,Week 2 (Quit)
+Alex Woytkiw,26,Business Owner,"Del Mar, California",The Bachelorette – JoJo,Week 1,Week 1
+Iggy Rodriguez,30,Consulting CEO,"Chicago, Illinois",The Bachelorette – Rachel,Week 1,Week 1
+Nick Benvenutti,35,Electrical Engineer,"Fort Lauderdale, Florida",The Bachelorette – JoJo,Week 1,Week 1
+Vinny Ventiera,29,Barber,"Delray Beach, Florida",The Bachelorette – JoJoBachelor in Paradise – Season 3,Week 1,Week 1
+DeMario Jackson,30,Bartender,"Los Angeles, California",The Bachelorette – Rachel,Week 1,Week 1 (DQ)
+Corinne Olympios,25,Business Owner,"Miami, Florida",The Bachelor – Nick,Week 1,Week 1 (DQ)
+Derek,Date,In,In,Engaged,Unknown,Unknown
+Taylor,Date,In,In,Engaged,Unknown,Unknown
+Adam,Date,Date,In,Relationship,Unknown,Unknown
+Raven,Date,In,In,Relationship,Unknown,Unknown
+Daniel,Wait,In,Date,Relationship,Unknown,Unknown
+Lacey,Quit,Date,Date,Relationship,Unknown,Unknown
+Robby,Last,In,Date,Split,Unknown,Unknown
+Amanda,In,In,Date,Split,Unknown,Unknown
+Dean,Date,Date,Last,Split,Unknown,Unknown
+Danielle L.,Wait,Last,In,Split,Unknown,Unknown
+Jonathan,Wait,Date,Split,Unknown,Unknown,Unknown
+Jasmine,Date,In,In,Split,Unknown,Unknown
+Jack,In,In,In,Split,Unknown,Unknown
+Christen,Wait,Date,Date,Split,Unknown,Unknown
+Dominique,Wait,Date,Date,Quit,Unknown,Unknown
+Jaimi,Wait,Quit,Unknown,Unknown,Unknown,Unknown
+Diggy,In,Date,In,Quit,Unknown,Unknown
+Emily,Wait,Quit,Unknown,Unknown,Unknown,Unknown
+Haley,Wait,Quit,Unknown,Unknown,Unknown,Unknown
+Blake,Wait,Out,,Unknown,Unknown,Unknown
+Fred,Wait,Out,,Unknown,Unknown,Unknown
+Kristina,Date,In,Quit,,Unknown,Unknown
+Ben,In,In,Quit,,Unknown,Unknown
+Alexis,In,Out,,Unknown,Unknown,Unknown
+Sarah,Wait,Out,,Unknown,Unknown,Unknown
+Matt,Date,Quit,,Unknown,Unknown,Unknown
+Danielle M.,In,Quit,,Unknown,Unknown,Unknown
+Alex,Out,,Unknown,Unknown,Unknown,Unknown
+Iggy,Out,,Unknown,Unknown,Unknown,Unknown
+Nick,Out,,Unknown,Unknown,Unknown,Unknown
+Vinny,Out,,Unknown,Unknown,Unknown,Unknown
+Corinne,Out,,Unknown,Unknown,Unknown,Unknown
+DeMario,Out,,Unknown,Unknown,Unknown,Unknown
+1,"""Week 1: Season Premiere""","August 14, 2017 (2017-08-14)",401A,5.09[16],1.6/6[16],Unknown
+2,"""Week 1: Part 2""","August 15, 2017 (2017-08-15)",401B,3.88[17],1.1/4[17],Unknown
+3,"""Week 2: Part 1""","August 21, 2017 (2017-08-21)",402A,4.33[18],1.3/5[18],Unknown
+4,"""Week 2: Part 2""","August 22, 2017 (2017-08-22)",402B,3.80[19],1.1/4[19],Unknown
+5,"""Week 3: Part 1""","August 28, 2017 (2017-08-28)",403A,5.45[20],1.7/6[20],Unknown
+6,"""Week 3: Part 2""","August 29, 2017 (2017-08-29)",403B,4.36[21],1.3/5[21],Unknown
+7,"""Week 4: Part 1""","September 4, 2017 (2017-09-04)",404A,4.51[22],1.3/5[22],Unknown
+8,"""Week 4: Part 2""","September 5, 2017 (2017-09-05)",404B,4.54[23],1.3/5[23],Unknown
+9,"""Week 5: Season Finale""","September 11, 2017 (2017-09-11)",405A,4.70[24],1.3/5[24],Unknown
+Chris Randone,30,Sales Trainer,"Orlando, Florida",The Bachelorette – Becca,Week 1,Engaged
+Krystal Nielson,30,Fitness Coach,"San Diego, California",The Bachelor – Arie,Week 1,Unknown
+Jordan Kimball,26,Model,"Crystal River, Florida",The Bachelorette – Becca,Week 1,Engaged
+Jenna Cooper,29,Social Media Manager,"Upland, Indiana",The Bachelor – Arie,Week 2,Unknown
+Kamil Nicalek,30,Model,"Monroe, New York",The Bachelorette – Becca,Week 3,Relationship
+Annaliese Puccini,33,Event Designer,"San Francisco, California",The Bachelor – Arie,Week 1,Unknown
+Kevin Wendt,34,Firefighter,"Waterloo, Ontario",The Bachelorette Canada – JasmineThe Bachelor Winter Games,Week 1,Split Week 6
+Astrid Loch,28,Plastic Surgery Office Manager,"Tampa, Florida",The Bachelor – Nick,Week 1,Unknown
+Jordan Mauger,34,Television & Film Producer,"Auckland, New Zealand",The Bachelor New ZealandThe Bachelor Winter Games,Week 4,Split Week 6
+Cassandra Ferguson,26,Makeup Artist,"Detroit, Michigan",The Bachelor — Juan PabloBachelor in Paradise — Season 2,Week 4,Unknown
+Robby Hayes,29,Model,"Los Angeles, California",The Bachelorette – JoJoBachelor in Paradise — Season 4,Week 5,Split Week 6
+Shushanna Mkrtychyan,30,Property Manager,"Salt Lake City, Utah",The Bachelor — Ben H. Bachelor in Paradise — Season 3,Week 4,Unknown
+John Graham,28,Software Engineer,"San Francisco, California",The Bachelorette – Becca,Week 1,Split Week 6
+Olivia Goethals,24,Marketing Associate,"Chicago, Illinois",The Bachelor – Arie,Week 4,Unknown
+Diggy Moreland,32,Senior Inventory Analyst,"Chicago, Illinois",The Bachelorette – RachelBachelor in Paradise — Season 4,Week 5,Week 5
+Joe Amabile,32,Grocery Store Owner,"Chicago, Illinois",The Bachelorette – Becca,Week 1,Split Week 5
+Kendall Long,26,Creative Director,"Los Angeles, California",The Bachelor – Arie,Week 1,Unknown
+Eric Bigger,30,Personal Trainer,"Baltimore, Maryland",The Bachelorette – RachelThe Bachelor Winter Games,Week 1,Week 5 (Quit)
+Angela Amezcua,28,Model,"Greenville, South Carolina",The Bachelor – Nick,Week 1,Week 4
+Chelsea Roy,29,Real Estate Executive Assistant,"Portland, Maine",The Bachelor – Arie,Week 1,Week 4
+Christen Whitney,26,Wedding Videographer,"Tulsa, Oklahoma",The Bachelor – Nick Bachelor in Paradise — Season 4,Week 4,Week 4
+Colton Underwood,26,Philanthropist,"Denver, Colorado",The Bachelorette – Becca,Week 1,Split Week 4
+Tia Booth,26,Physical Therapist,"Little Rock, Arkansas",The Bachelor – Arie,Week 1,Unknown
+Benoit Beauséjour-Savard,31,Restaurant Manager,"Montreal, Quebec, Canada",The Bachelorette Canada – JasmineThe Bachelor Winter Games,Week 3,Week 3
+Connor Obrochta,25,Fitness Coach,"St. Petersburg, Florida",The Bachelorette – Becca,Week 3,Week 3
+David Ravitz,26,Venture Capitalist,"Boca Raton, Florida",The Bachelorette – Becca,Week 1,Week 3
+Leo Dottavio,31,Stuntman,"Los Angeles, California",The Bachelorette – Becca,Week 3,Week 3
+Jubilee Sharpe,27,War Veteran,"Miami, Florida",The Bachelor — Ben H.Bachelor in Paradise — Season 3,Week 2,Week 3 (Quit)
+Kenny Layne,36,Professional Wrestler,"Las Vegas, Nevada",The Bachelorette – Rachel,Week 1,Week 3 (Quit)
+Bibiana Julian,30,Executive Assistant,"Miami, Florida",The Bachelor – ArieThe Bachelor Winter Games,Week 1,Week 2
+Caroline Lunny,27,Realtor,"Fort Lauderdale, Florida",The Bachelor – Arie,Week 2,Week 2
+"D'Nysha ""Nysha"" Norris",30,Orthopedic Nurse,"Anderson, South Carolina",The Bachelor – Arie,Week 1,Week 2
+Jacqueline Trumbull,27,Research Coordinator,"New York, New York",The Bachelor – Arie,Week 2,Week 2
+Wills Reid,29,Graphic Designer,"Los Angeles, California",The Bachelorette – Becca,Week 1,Week 1
+Nick Spetsas,27,Attorney,"Palm Coast, Florida",The Bachelorette – Becca,Week 1,Week 1
+Chris,Date,In,In,In,Date,Engaged
+Krystal,Date,In,Date,In,Date,Engaged
+Jordan K.,In,Date,In,In,Date,Engaged
+Jenna,Wait,Date,Date,In,Date,Engaged
+Kamil,Wait,Date,Date,In,Relationship,Unknown
+Annaliese,In,Last,Date,Last,In,Relationship
+Kevin,In,In,In,Date,In,Split
+Astrid,In,In,In,Date,In,Split
+Jordan M.,Wait,In,Date,Split,Unknown,Unknown
+Cassandra,Wait,Date,Date,Split,Unknown,Unknown
+Robby,Wait,Date,Split,Unknown,Unknown,Unknown
+Shushanna,Wait,Date,Date,Split,Unknown,Unknown
+John,In,Date,Last,Date,Last,Split
+Olivia,Wait,Date,Date,Split,Unknown,Unknown
+Diggy,Wait,Out,,Unknown,Unknown,Unknown
+Joe,In,In,In,In,Split,
+Kendall,In,In,Date,In,Split,
+Eric,In,In,Date,Date,Quit,
+Angela,In,In,Date,Out,,Unknown
+Chelsea,In,In,In,Out,,Unknown
+Christen,Wait,Out,,Unknown,Unknown,Unknown
+Colton,Last,In,Date,Split,,Unknown
+Tia,Date,In,Date,Split,,Unknown
+Benoit,Wait,Out,,Unknown,Unknown,Unknown
+Connor,Wait,Out,,Unknown,Unknown,Unknown
+David,In,In,Out,,Unknown,Unknown
+Leo,Wait,Out,,Unknown,Unknown,Unknown
+Jubilee,Wait,Date,Quit,,Unknown,Unknown
+Kenny,Date,Date,Quit,,Unknown,Unknown
+Bibiana,In,Out,,Unknown,Unknown,Unknown
+Caroline,Wait,Out,,Unknown,Unknown,Unknown
+Jacqueline,Wait,Out,,Unknown,Unknown,Unknown
+Nysha,In,Out,,Unknown,Unknown,Unknown
+Nick,Out,,Unknown,Unknown,Unknown,Unknown
+Wills,Out,,Unknown,Unknown,Unknown,Unknown
+1,"""Week 1: Season Premiere""","August 7, 2018 (2018-08-07)",501,3.82[12],1.1/5[12],Unknown
+"Arrivals: Tia, Eric, Kendall, Jordan, Bibiana, Joe, Wills, Chelsea, Chris, Krystal, Kevin, Nick, John, Nysha, Angela, Kenny, Astrid, Annaliese, David.Date Card: TiaTia's Date: ChrisArrival: ColtonColton's Date: Tia",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+2,"""Week 2: Part 1""","August 13, 2018 (2018-08-13)",502A,4.54[13],1.3/6[13],Unknown
+"Date Card: KennyKenny's Date: KrystalRose Ceremony: Krystal gave her rose to Kenny, Astrid gave her rose to Kevin, Tia gave her rose to Chris, Kendall gave her rose to Joe, Annaliese gave her rose to Jordan, Nysha gave her rose to Eric, Chelsea gave her rose to David, Angela gave her rose to John, Bibiana gave her rose to Colton. Nick and Wills did not receive a rose and were sent home.Becca Kufrin arrives to talk to the girls.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3,"""Week 2: Part 2""","August 14, 2018 (2018-08-14)",502B,3.93[14],1.0/5[14],Unknown
+Arrival: JennaJenna's Date: JordanArrival: CarolineCaroline's Date: JohnArrival: JubileeJubilee's Date: John,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+4,"""Week 3: Part 1""","August 20, 2018 (2018-08-20)",503A,4.60[15],1.3/6[15],Unknown
+5,"""Week 3: Part 2""","August 21, 2018 (2018-08-21)",503B,3.97[16],1.1/5[16],Unknown
+6,"""Week 4: Part 1""","August 27, 2018 (2018-08-27)",504A,4.61[17],1.2/6[17],Unknown
+7,"""Week 4: Part 2""","August 28, 2018 (2018-08-28)",504B,4.16[18],1.1/5[18],Unknown
+"Leo arrives and takes Kendall on a date. He kisses Chelsea and argues with Kevin about it. At night, Leo sarcastically wishes Kendall good luck with Joe, whom he called ""Grocery Store Bitch"". Leo then leaves the party, but Joe demands that he say that to his face. Leo then spills his drink on Joe, and producers attempt to break the incoming fight. At the rose ceremony, Benoit, Connor, and David do not receive roses and are eliminated.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+8,"""Week 5: Part 1""","September 3, 2018 (2018-09-03)",505A,4.20[19],1.1/5[19],Unknown
+"Colton broke up with Tia and left paradise, causing Tia to also leave. Angela, Chelsea, and Christen do not receive roses and are eliminated.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+9,"""Week 5: Part 2""","September 4, 2018 (2018-09-04)",505B,3.93[20],1.0/4[20],Unknown
+10,"""Week 6: Part 1""","September 10, 2018 (2018-09-10)",506A,4.23[21],1.1/5[21],Unknown
+11,"""Week 6: Part 2 (Season Finale)""","September 11, 2018 (2018-09-11)",506B,4.55[22],1.2/5[22],Unknown
+"After Fantasy Suite date night. The three remaining couples must decide if they will stay together or break up. Annalise and Kamil confess their feelings for one another both state that they love each over. Kamil, however is not ready to propose and wants to continue their relationship outside of Paradise. The next couple to make the decision are Jordan and Jenna. Both confirm their love for each other, and Jordan proposes to Jenna who happily accepts. Chris and Krystal are the final couple, Chris proposes to Krystal. During the taping of the reunion Kamil breaks up with Annalise on stage. Everyone on the cast turns on Kamil. Joe and Kendall have also reunited after splitting during a cocktail party. Astrid and Kevin have gotten back together as well. Jordan and Jenna appear happy and engaged and ask Chris Harrison to officiate their wedding. News later broke that supposedly Jenna cheated on Jordan before and after Paradise; Jordan has since ""removed himself from the relationship"" effectively ending their engagement. Chris and Krystal are still together and planning on moving in together and planning their wedding.",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Chris Bukowski,32,Entrepreneur,"Chicago, Illinois",The Bachelorette – EmilyThe Bachelorette – AndiBachelor Pad – Season 3Bachelor in Paradise season 1 & season 2,Week 1,Engaged
+Katie Morton,27,Medical Sales Representative,"Los Angeles, California",The Bachelor – Colton,Week 1,Unknown
+Demi Burnett,24,Interior Designer,"Dallas, Texas",The Bachelor – Colton,Week 1,Engaged
+Kristian Haggerty[8],27,Commercial and Music Video Production,"Los Angeles, California",None,Week 3,Unknown
+Dylan Barbour,25,Tech Entrepreneur,"San Diego, California",The Bachelorette – Hannah,Week 1,Engaged
+Hannah Godwin,24,Content Creator and Model,"Birmingham, Alabama",The Bachelor – Colton,Week 1,Unknown
+Clay Harbor,31,Pro Football Player,"Chicago, Illinois",The Bachelorette – Becca,Week 1,Split Week 6
+Nicole Lopez-Alvar,26,Social Media Coordinator,"Miami, Florida",The Bachelor – Colton,Week 1,Unknown
+John Paul Jones,24,Financial Analyst,"New Carrollton, Maryland",The Bachelorette – Hannah,Week 1,Split Week 6
+Tayshia Adams,28,Fitness Instructor,"Corona Del Mar, California",The Bachelor – Colton,Week 1,Unknown
+Chase McNary,30,Fitness Instructor,"Denver, Colorado",The Bachelorette – JoJo,Week 4,Split Week 6
+Angela Amezcua,29,Model,"Greenville, South Carolina",The Bachelor – NickBachelor in Paradise —Season 5,Week 4,Unknown
+Matt Donald,26,Medical Device Salesman,"Los Gatos, California",The Bachelorette – Hannah,Week 4,Split Week 6
+Bri Barnes,24,Model,"Los Angeles, California",The Bachelor – Colton,Week 5,Unknown
+Haley Ferguson,26,Cocktail Waitress,"Las Vegas, Nevada",The Bachelor – Ben H.Bachelor in Paradise season 3 & season 4,Week 3,Week 5
+Revian Chang,24,Yoga Instructor,"Los Angeles, California",The Bachelor – Colton,Week 5,Week 5
+Sydney Lotuaco,27,Fitness Instructor,"New York, New York",The Bachelor – Colton,Week 1,Week 5
+Luke Stone,29,Political Consultant,"Washington, DC",The Bachelorette – Hannah,Week 4,Week 5
+Connor Saeli,24,Investment Analyst,Dallas Texas,The Bachelorette – Hannah,Week 4,Week 6 (Quit)
+Whitney Fransway,27,Pilates Instructor,"Los Angeles, California",The Bachelor – Nick,Week 5,Unknown
+Blake Horstmann,30,Sales Rep,"Denver, Colorado",The Bachelorette – Becca,Week 1,Split Week 5
+Kristina Schulman,27,Dental Hygienist,"Los Angeles, California",The Bachelor – NickBachelor in Paradise —Season 4,Week 1,Unknown
+Dean Unglert,28,Startup Recruiter,"Los Angeles, California",The Bachelorette – Rachel Bachelor in Paradise — Season 4The Bachelor Winter Games,Week 2; Week 5 (Returned),Week 3 (Quit); Relationship Week 5
+Caelynn Miller-Keyes,24,Model,"Los Angeles, California",The Bachelor – Colton,Week 1,Relationship Week 5
+Mike Johnson,31,Portfolio Manager,"San Antonio, Texas",The Bachelorette – Hannah,Week 2,Week 4
+Derek Peth,32,Commercial Banker,"New York, New York",The Bachelorette – JoJo Bachelor in Paradise — Season 4,Week 1,Week 4 (Quit)
+Caitlin Clemmens,25,Realtor,"Toronto, Ontario",The Bachelor – Colton,Week 3,Week 3
+Jennifer Saviano,29,Business Owner,"Nashville, Tennessee",The Bachelor – Ben H.Bachelor in Paradise —Season 3,Week 3,Week 3
+Tahzjuan Hawkins,25,Business Development Associate,"Castle Pines, Colorado",The Bachelor – Colton,Week 3,Week 3
+"Cameron ""Cam"" Ayala",30,Software Sales,"Austin, Texas",The Bachelorette – Hannah,Week 1,Week 2
+Kevin Fortenberry,27,Behavioral Health Specialist,"Chicago, Illinois",The Bachelorette – Hannah,Week 1,Week 2
+Wills Reid,30,Graphic Designer,"Los Angeles, California",The Bachelorette – Becca Bachelor in Paradise — Season 5,Week 1,Week 2
+Onyeka Ehie,25,IT Risk Consultant,"Dallas, Texas",The Bachelor – Colton,Week 1,Week 2 (Quit)
+Christian Estrada,29,Actor,"New York, New York",The Bachelorette – Becca,Week 2,Week 2 (Removed)
+Jordan Kimball,27,Model,"Crystal River, Florida",The Bachelorette – Becca Bachelor in Paradise — Season 5,Week 2,Week 2 (Removed)
+Annaliese Puccini,34,Event Designer,"San Francisco, California",The Bachelor – Arie Bachelor in Paradise — Season 5,Week 1,Week 1
+Bibiana Julian,31,Executive Assistant,"Miami, Florida",The Bachelor – ArieThe Bachelor Winter Games''Bachelor in Paradise — Season 5,Week 1,Week 1
+Jane Averbukh,26,Social Worker,"West Hollywood, California",The Bachelor – Colton,Week 1,Week 1
+Chris,In,In,Date,In,Date,Engaged
+Katie,In,In,Last,In,Last,Engaged
+Demi,In,In,Date,In,Date,Engaged[a]
+Kristian,Wait[b],Date,In,Date,Engaged,Unknown
+Dylan,In,In,Date,In,Date,Engaged
+Hannah,In,In,Date,In,Date,Engaged
+Clay,Date,In,In,In,Date,Split
+Nicole,Date,Date,In,In,Date,Split
+John Paul Jones,In,In,Date,In,In,Split
+Tayshia,Date,In,In,In,In,Split
+Chase,Wait,Date,In,Split,Unknown,Unknown
+Angela,Wait[c],Date,In,Split,Unknown,Unknown
+Matt,Wait,Date,Date,Split,Unknown,Unknown
+Bri,Wait,Date,Split,Unknown,Unknown,Unknown
+Haley,Wait,Date,In,Out,,Unknown
+Revian,Wait,Out,,Unknown,Unknown,Unknown
+Sydney,In,In,In,Date,Out,
+Luke,Wait,Date,Out[d],,Unknown,Unknown
+Connor,Wait[c],Date,Quit,,Unknown,Unknown
+Whitney,Wait[c],Quit,,Unknown,Unknown,Unknown
+Blake,Date,Last,Date,Last,Split,
+Kristina,Last,In,In,Date,Split,
+Dean,Wait,Date,Quit,,Quit,
+Caelynn,In,Date,In,Date,Quit,
+Mike,Wait,Date,In,Out,,Unknown
+Derek,In,In,In,Quit,,Unknown
+Caitlin,Wait,Out,,Unknown,Unknown,Unknown
+Jennifer,Wait,Out,Unknown,Unknown,Unknown,Unknown
+Tahzjuan,Wait,Out,Unknown,Unknown,Unknown,Unknown
+Cam,In,Out,,Unknown,Unknown,Unknown
+Kevin,In,Out,Unknown,Unknown,Unknown,Unknown
+Wills,In,Out,Unknown,Unknown,Unknown,Unknown
+Onyeka,In,Quit,Unknown,Unknown,Unknown,Unknown
+Christian,Wait,Out,Unknown,Unknown,Unknown,Unknown
+Jordan,Wait,Out,Unknown,Unknown,Unknown,Unknown
+Annaliese,Out,,Unknown,Unknown,Unknown,Unknown
+Bibiana,Out,Unknown,Unknown,Unknown,Unknown,Unknown
+Jane,Out,Unknown,Unknown,Unknown,Unknown,Unknown
+1,"""Week 1: Part 1 (Season Premiere)""","August 5, 2019 (2019-08-05)",601A,4.36[10],1.3/7[10],Unknown
+2,"""Week 1: Part 2""","August 6, 2019 (2019-08-06)",601B,3.56[11],1.1/6[11],Unknown
+3,"""Week 2: Part 1""","August 12, 2019 (2019-08-12)",602A,4.33[12],1.2/6[12],Unknown
+4,"""Week 2: Part 2""","August 13, 2019 (2019-08-13)",602B,4.07[13],1.1/6[13],Unknown
+5,"""Week 3: Part 1""","August 19, 2019 (2019-08-19)",603A,4.78[14],1.3/7[14],Unknown
+6,"""Week 3: Part 2""","August 20, 2019 (2019-08-20)",603B,4.12[15],1.1/6[15],Unknown
+7,"""Week 4: Part 1""","August 26, 2019 (2019-08-26)",604A,4.59[16],1.2/6[16],Unknown
+8,"""Week 4: Part 2""","August 27, 2019 (2019-08-27)",604B,3.95[17],1.1/6[17],Unknown
+9,"""Week 5: Part 1""","September 2, 2019 (2019-09-02)",605A,4.02[18],1.1/5[18],Unknown
+10,"""Week 5: Part 2""","September 3, 2019 (2019-09-03)",605B,4.05[19],1.1/6[19],Unknown
+11,"""Week 6: Part 1""","September 9, 2019 (2019-09-09)",606A,4.39[20],1.2/6[20],Unknown
+12,"""Week 6: Part 2""","September 10, 2019 (2019-09-10)",606B,4.14[21],1.1/5[21],Unknown
+13,"""Week 7: Season Finale""","September 17, 2019 (2019-09-17)",607,4.38[22],1.3/7[22],Unknown
